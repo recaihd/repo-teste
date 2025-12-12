@@ -73,6 +73,7 @@ border-radius: 12px;
 h1 {
     color: #ffffff;
     text-align: center;
+    cursor: pointer;
     text-shadow: black 4px 2px 2px;;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
